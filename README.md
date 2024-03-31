@@ -1,6 +1,6 @@
-# lineShell
+# DevScripts
 
-lineShell is a command-line interface (CLI) tool that integrates multiple shell scripts into a single application, providing users with an easy-to-use menu-driven interface for executing various tasks efficiently.
+DevScripts is a command-line interface (CLI) tool that integrates multiple shell scripts into a single application, providing users with an easy-to-use menu-driven interface for executing various tasks efficiently.
 
 ## Features
 
@@ -13,19 +13,19 @@ lineShell is a command-line interface (CLI) tool that integrates multiple shell 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your_username/lineShell.git
+   git clone https://github.com/your_username/DevScripts.git
    ```
 
-2. Navigate to the `lineShell` directory:
+2. Navigate to the `DevScripts` directory:
 
    ```bash
-   cd lineShell
+   cd DevScripts
    ```
 
 3. Run the Python script:
 
    ```bash
-   python lineShell.py
+   python DevScripts.py
    ```
 
 ## Usage
@@ -75,7 +75,7 @@ DevScripts/
 
 ## Contributing
 
-Contributions are welcome! If you have any ideas, enhancements, or bug fixes, please [open an issue](https://github.com/your_username/lineShell/issues) or submit a pull request.
+Contributions are welcome! If you have any ideas, enhancements, or bug fixes, please [open an issue](https://github.com/your_username/DevScripts/issues) or submit a pull request.
 
 ## License
 
